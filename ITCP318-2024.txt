@@ -46,12 +46,16 @@ monthly sales charts. all months on the chart label. line chart 10pts
 sales charts with date range filter.  line or bar chart 15pts
 
 quiz 3
-pagination on products list. 10pts
+pagination on products list on homepage. 10pts
 infinite scroll on products list on homepage. 15pts
 
 quiz 4 
 facebook or gmail login 15pts react-facebook-login or similar packages.
 facebook or gmail login firebase 15pts
+
+quiz 5 attendance 10pts
+2pts deduction for each meeting of being absent.
+
 
 term test LEC
 functional requirements completeness 10pts
